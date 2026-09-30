@@ -1,0 +1,11 @@
+{
+  "library": "clap",
+  "metrics": {
+    "stmts": 152,
+    "sloc": 863,
+    "cog_complex": 63,
+    "cyc_complex": 63,
+    "halstead_volume": 6611.6,
+    "parse_tokens": 3700
+  }
+}

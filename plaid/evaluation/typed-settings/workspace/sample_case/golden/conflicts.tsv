@@ -1,0 +1,4 @@
+kind	path	line	col	first_line
+redefined	owner	36	1	7
+duplicate	owner.retries	37	1	10
+mixed	owner.cache	39	1	38

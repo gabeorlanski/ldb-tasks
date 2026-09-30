@@ -1,0 +1,9 @@
+territory_id,edge_id,revision,active,start_vertex,end_vertex,segment_id
+north,n-bottom,0,false,n0,n1,border
+north,n-east,0,true,n1,n2,n-east
+north,n-top,0,true,n2,n3,n-top
+north,n-west,0,true,n3,n0,n-west
+north,h-west,0,true,h0,h1,h-west
+north,h-north,0,true,h1,h2,h-north
+south,s-bottom,0,true,s0,s1,s-bottom
+south,s-east,0,true,s1,n1,s-east

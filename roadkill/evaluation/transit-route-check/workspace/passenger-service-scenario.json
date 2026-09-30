@@ -1,0 +1,17 @@
+{
+  "nodes": [{"id":"A"},{"id":"B"},{"id":"C"}],
+  "links": [
+    {"id":"ab","start":"A","end":"B","length_m":100,"free_speed_mps":10,"capacity_vph":1800},
+    {"id":"bc","start":"B","end":"C","length_m":100,"free_speed_mps":10,"capacity_vph":1800},
+    {"id":"cb","start":"C","end":"B","length_m":100,"free_speed_mps":10,"capacity_vph":1800},
+    {"id":"ba","start":"B","end":"A","length_m":100,"free_speed_mps":10,"capacity_vph":1800}
+  ],
+  "demand": [{"origin":"A","destination":"C","start_s":0,"end_s":100,"rate_vph":288}],
+  "passenger_demand": [{"origin":"B","destination":"C","start_s":20,"end_s":100,"rate_pph":900}],
+  "plans": [
+    {"name":"service","routes":[{"nodes":["A","B","C"],"headway_s":3600,"vehicle_capacity":5,"dwell_s":20}]},
+    {"name":"no-service","routes":[]}
+  ],
+  "horizon_s":300,
+  "seed":42
+}

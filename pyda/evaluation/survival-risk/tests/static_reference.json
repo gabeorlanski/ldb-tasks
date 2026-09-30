@@ -1,0 +1,11 @@
+{
+  "library": "pandas",
+  "metrics": {
+    "stmts": 240,
+    "sloc": 468,
+    "cog_complex": 109,
+    "cyc_complex": 68,
+    "halstead_volume": 12754.4,
+    "parse_tokens": 3982
+  }
+}

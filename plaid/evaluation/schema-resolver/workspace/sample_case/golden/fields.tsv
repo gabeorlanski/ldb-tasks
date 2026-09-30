@@ -1,0 +1,15 @@
+message_fqname	name	label	type_text	resolved	tag	line	col	deprecated	internal
+.acme.common.Money	units	singular	uint32	uint32	1	5	3	false	false
+.acme.common.Money	cents	singular	uint32	uint32	2	6	3	false	false
+.acme.orders.Money	signed_units	singular	sint64	sint64	1	8	3	false	false
+.acme.orders.Order.Money	display	singular	string	string	1	13	5	false	false
+.acme.orders.Order	total	singular	Money	.acme.orders.Order.Money	1	16	3	false	false
+.acme.orders.Order	ledger	singular	.acme.orders.Money	.acme.orders.Money	2	17	3	false	false
+.acme.orders.Order	settled	singular	acme.common.Money	.acme.common.Money	3	18	3	false	false
+.acme.orders.Order	voucher	oneof	string	string	6	24	39	false	false
+.acme.orders.Order	card	oneof	Money	.acme.orders.Order.Money	9	25	5	false	false
+.acme.orders.Order	lines	repeated	Line	.acme.orders.Order.Line	5	28	3	true	false
+.acme.orders.Order.Line	sku	singular	string	string	1	31	5	false	false
+.acme.orders.Order.Line	qty	singular	uint32	uint32	2	32	5	false	false
+.acme.orders.Order.Line	status	optional	acme.common.Status	.acme.common.Status	3	33	5	false	false
+.acme.api.TrackRequest	order_ref	singular	string	string	1	7	3	false	false

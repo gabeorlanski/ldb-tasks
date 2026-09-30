@@ -1,0 +1,39 @@
+; café stock feed — sample shape rules
+
+envelope = {
+  "schéma": version,
+  channel => payload,
+  ? note,
+  2*3 tag: label,
+}
+
+version = 1..10
+version /= 0x1F..0xFF
+
+channel = "primary" / "mirror" / null
+
+payload = [ * item ]
+
+item = {
+  sku: label,
+  dims: [ 2*2 quantity ],
+  count: quantity
+  //
+  gap-marker
+}
+
+gap-marker = null
+gap-marker //= ? "reason": op.code
+gap-marker //= + stamp
+
+quantity = 0..0x40 / 1.5..2.5
+
+label = op.code .size 1..8
+
+note = op.code .size max-note
+
+op.code = "put" .default "put" / "take" .regexp "ta\"ke\\s"
+
+stamp = ( true / false )
+
+ratio = 2.5e-1...1.0

@@ -1,0 +1,4 @@
+operation	name	type	default	line	col
+Search	filter	SearchFilter	{limit:10,tags:["new","hot"]}	2	14
+Search	exact	Boolean	false	2	72
+Tag	labels	[String!]	["à-jour"]	14	14

@@ -1,0 +1,3 @@
+store	39	72
+program	74	423
+input	425	445

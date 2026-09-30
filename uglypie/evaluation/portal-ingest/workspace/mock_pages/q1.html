@@ -1,0 +1,17 @@
+<!doctype html>
+<html><head><title> Q1 Portal Update </title>
+<base href="https://portal.example/app/">
+<style>.banner{color:blue}</style><script>window.portalBoot = true;</script></head>
+<body>
+<nav>Navigation should not be page content</nav>
+<main class="page_content">
+  <h1>Quarterly launch</h1>
+  <!-- internal editorial note must not leak -->
+  <p>Read the <a href="/reports/q1">Q1 report</a>, open the <a href="guide/start">starter guide</a>, and contact <a href="https://help.example/q1"></a>.</p>
+  <p><font color="red">Legacy wrapper</font> <span data-owner="portal">keeps useful data</span><img src="images/q1.png" alt="chart"></p>
+  <p>Raw mirror: https://cdn.example/q1.pdf<br>Next line after break.</p>
+  <script>console.log('inside content');</script>
+  <style>.page_content .internal{display:none}</style>
+</main>
+<footer>Footer outside content</footer>
+</body></html>

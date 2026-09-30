@@ -1,0 +1,13 @@
+/* Power helpers — shared across the fleet. */
+
+def charge cell =
+  vent (cell - 1) ; report "célula ok"
+end
+
+def wobble = 2 + + 5 end
+
+def perch = || 3 end
+
+def drain load : int -> cmd unit = charge (load * 2) end
+
+flush now

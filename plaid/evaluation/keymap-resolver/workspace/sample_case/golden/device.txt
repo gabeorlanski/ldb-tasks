@@ -1,0 +1,4 @@
+name=Pläte Ünit
+repeat-rate=45
+fallthrough=true
+allow-cmd=false

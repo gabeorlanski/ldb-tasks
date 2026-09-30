@@ -1,0 +1,7 @@
+{
+  "parser": "html.parser",
+  "errata_parser": "html.parser",
+  "errata_encoding": "windows-1252",
+  "session_label": "March 12 public hearing",
+  "published_statuses": ["approved", "denied", "pending"]
+}

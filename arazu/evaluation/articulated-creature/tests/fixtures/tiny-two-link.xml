@@ -1,0 +1,9 @@
+<mujoco model="tiny-two-link">
+  <worldbody>
+    <body name="body" pos="0 2 0"><geom type="box" size="0.3 0.2 0.2"/>
+      <body name="arm" pos="0.5 0 0"><joint name="shoulder" type="hinge" axis="0 0 1" range="-1.2 1.2"/><geom type="box" size="0.25 0.15 0.15"/>
+        <body name="tip" pos="0.45 0 0"><joint name="elbow" type="hinge" axis="0 0 1" range="-1.2 1.2"/><geom type="box" size="0.2 0.12 0.12"/></body>
+      </body>
+    </body>
+  </worldbody>
+</mujoco>

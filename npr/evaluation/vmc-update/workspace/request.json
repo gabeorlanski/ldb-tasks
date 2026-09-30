@@ -1,0 +1,11 @@
+{
+  "parameters": {"shape": [2, 3], "order": "column-major", "values": [1.0, 3.0, -2.0, 4.0, 0.5, -1.0]},
+  "samples": [
+    {"wavefunction_value": 1.0, "energy": 2.0, "parameter_gradient": {"shape": [2, 3], "order": "row-major", "values": [1.0, 4.0, 2.0, 3.0, 1.0, 5.0]}},
+    {"wavefunction_value": 2.0, "energy": 4.0, "parameter_gradient": {"shape": [2, 3], "order": "column-major", "values": [4.0, 2.0, 1.0, 5.0, 6.0, 3.0]}}
+  ],
+  "active": {"row_start": 0, "row_step": 1, "row_count": 2, "column_start": 0, "column_step": 2, "column_count": 2},
+  "covariance_zscore_axis": 0,
+  "step_size": 0.1,
+  "damping": [1.0, 1.0, 1.0, 1.0]
+}

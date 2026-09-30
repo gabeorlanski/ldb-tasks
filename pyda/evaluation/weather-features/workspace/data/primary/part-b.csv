@@ -1,0 +1,5 @@
+station_id,timestamp,temperature_f
+SFO,2025-01-02T00:00:00Z,55
+SFO,2025-01-02T12:00:00Z,65
+SFO,2025-01-02T18:00:00Z,not-a-number
+SJC,2025-01-01T00:00:00Z,60

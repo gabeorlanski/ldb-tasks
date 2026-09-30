@@ -1,0 +1,4 @@
+request_id,segment,event_ts,ingested_at,amount,velocity,age_days
+R1,consumer,2026-01-01T10:00:00Z,2026-01-01T10:01:00Z,200,2,30
+R2,merchant,2026-01-01T10:05:00Z,2026-01-01T10:06:00Z,50,5,100
+R1,consumer,2026-01-01T10:00:00Z,2026-01-01T10:02:00Z,250,2,30

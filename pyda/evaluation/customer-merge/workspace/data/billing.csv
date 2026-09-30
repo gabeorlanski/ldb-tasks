@@ -1,0 +1,4 @@
+user_id,name,email_address,created_at,status
+101,Ana D.,ana@billing.example,2024-01-03,current
+102,Bo Li,bo@example.com,2024-02-11,current
+103,Cy Park,cy@example.com,2024-03-09,current

@@ -1,0 +1,11 @@
+{
+  "catalog_urls": ["http://127.0.0.1:8765/catalog/main.html"],
+  "detail_url_template": "http://127.0.0.1:8765/details/{project_id}.html",
+  "resource_indexes": {
+    "1001": "http://127.0.0.1:8765/resources/1001/index.html"
+  },
+  "enrichment": {
+    "dsn_url": "http://127.0.0.1:8765/enrichment/dsn.xml",
+    "gateway_url_template": "http://127.0.0.1:8765/enrichment/{build_id}.html"
+  }
+}

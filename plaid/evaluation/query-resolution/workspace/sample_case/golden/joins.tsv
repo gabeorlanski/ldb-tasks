@@ -1,0 +1,5 @@
+stmt	kind	right_table	line	col
+1	inner	c	4	1
+2	inner	c	10	1
+4	cross	s	18	1
+5	left	m	30	1

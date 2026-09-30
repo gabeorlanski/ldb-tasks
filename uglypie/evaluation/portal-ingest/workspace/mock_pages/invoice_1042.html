@@ -1,0 +1,22 @@
+<html><head><title>Invoice 1042</title>
+<style>
+.print-format { margin-top: 99mm; margin-bottom: 8mm; page-size: Letter; header-spacing: 6mm; background: red; }
+.print-format { margin-top: 12mm; page-size: A4; header-spacing: 12mm; }
+.print-format .child { margin-left: 99mm; page-size: Letter; header-spacing: 99mm; }
+.other, .print-format { margin-left: 0mm; margin-right: 5mm; orientation: Landscape; }
+</style>
+<script>window.invoiceAsset = 'first';</script>
+</head><body>
+<div id="header-html"><p>Invoice Header <!-- draft header note --><span class="visible-pdf">Print Only</span><span class="hidden-pdf">Screen Only</span></p></div>
+<div id="header-html"><p>Duplicate Header</p></div>
+<article class="print-format page_content">
+  <h1>Invoice 1042</h1>
+  <p>Amount <strong>$42.00</strong></p>
+  <p class="hidden-pdf">draft watermark</p>
+  <p class="visible-pdf keep">Visible in PDF</p>
+  <a href="https://pay.example/invoice/1042">Pay now</a>
+  <a href="/invoice/1042/receipt">Receipt</a>
+</article>
+<div id="footer-html"><p>Invoice Footer</p></div><div id="footer-html"><p>Duplicate Footer</p></div>
+<style>.extra{color:green}</style><script>window.invoiceAsset = 'second';</script>
+</body></html>

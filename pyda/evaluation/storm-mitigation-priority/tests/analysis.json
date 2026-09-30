@@ -1,0 +1,20 @@
+{
+  "start_month": "2017-01",
+  "end_month": "2020-12",
+  "state_fips": [],
+  "window_months": 12,
+  "top_count": 100,
+  "priority_columns": [
+    "year",
+    "county_fips",
+    "state_fips",
+    "population",
+    "trailing_fatalities",
+    "trailing_property_damage",
+    "prior_year_trailing_fatalities",
+    "fatality_rate_per_100k",
+    "property_damage_per_resident",
+    "state_fatality_share",
+    "priority_rank"
+  ]
+}

@@ -1,0 +1,4 @@
+[
+  {"level": "info", "message": "started", "time": "2024-01-02T03:04:06Z"},
+  {"level": "warn", "message": "using local fixture", "time": "2024-01-02T03:04:07Z"}
+]

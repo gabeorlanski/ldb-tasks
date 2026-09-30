@@ -1,0 +1,14 @@
+{
+  "sigma": {"alpha": 0.7, "beta": 2.0, "kappa": 0.0},
+  "odometry": [0.4, -0.1, 0.05],
+  "process_noise": [[0.02, 0.0, 0.0], [0.0, 0.02, 0.0], [0.0, 0.0, 0.01]],
+  "measurement_matrix": [[1.0, 0.0, 0.0], [0.0, 1.0, 0.0]],
+  "measurement_bias": [0.0, 0.0],
+  "observed": [1.0, -0.5],
+  "measurement_noise": [[0.1, 0.0], [0.0, 0.1]],
+  "hypotheses": [{
+    "id": "origin",
+    "state": [0.0, 0.0, 0.0],
+    "covariance": [[0.4, 0.05, 0.0], [0.05, 0.3, 0.02], [0.0, 0.02, 0.2]]
+  }]
+}

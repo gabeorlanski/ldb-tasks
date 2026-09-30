@@ -1,0 +1,4 @@
+feature_id,observed_at,category,exposure,alternate,label
+n3,2024-01-10T00:00:00Z,residential,30,300,North three
+n4,2024-01-02T00:00:00Z,mixed,5,50,Below threshold
+n4,2024-01-20T00:00:00Z,mixed,15,150,North four

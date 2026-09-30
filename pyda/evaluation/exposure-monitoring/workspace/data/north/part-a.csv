@@ -1,0 +1,4 @@
+feature_id,observed_at,category,exposure,alternate,label
+n1,2024-01-01T00:00:00Z,residential,10,100,North one
+n1,2024-01-15T00:00:00Z,residential,20,200,North one
+n2,2024-01-10T00:00:00Z,residential,30,300,North two

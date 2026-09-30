@@ -1,0 +1,6 @@
+{
+  "states": ["22", "28", "35", "40", "48"],
+  "start_month": "2018-01",
+  "end_month": "2023-12",
+  "rolling_months": 12
+}

@@ -1,0 +1,11 @@
+{
+  "library": "uxsim",
+  "metrics": {
+    "stmts": 65,
+    "sloc": 153,
+    "cog_complex": 51,
+    "cyc_complex": 35,
+    "halstead_volume": 3559.82,
+    "parse_tokens": 1189
+  }
+}

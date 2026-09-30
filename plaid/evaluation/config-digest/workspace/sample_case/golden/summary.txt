@@ -1,0 +1,7 @@
+selected=8
+numeric_sum=11956.25
+suppressed_nodes=2
+suppressed_args=1
+suppressed_props=1
+suppressed_blocks=1
+count.item=8

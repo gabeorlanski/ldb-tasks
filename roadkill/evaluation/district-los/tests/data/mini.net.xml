@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<net><location netOffset="-424420.82,-4576947.19" convBoundary="600,-1200,5000,0" origBoundary="2.10,41.32,2.16,41.35" projParameter="+proj=utm +zone=31 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+<junction id="A" type="priority" x="600" y="0"/>
+<junction id="B" type="priority" x="1400" y="0"/>
+<junction id="C" type="priority" x="2200" y="0"/>
+<junction id="D" type="priority" x="3000" y="0"/>
+<junction id="E" type="priority" x="3800" y="0"/>
+<junction id="F" type="priority" x="5000" y="0"/>
+<junction id="G" type="priority" x="600" y="-1200"/>
+<junction id="P" type="priority" x="2200" y="-1200"/>
+<junction id="R" type="priority" x="3800" y="-1200"/>
+<junction id=":C_0" type="internal" x="2200" y="30"/>
+<edge id="ab" from="A" to="B"><lane id="ab_0" index="0" speed="20" length="800"/><lane id="ab_1" index="1" speed="20" length="800"/></edge>
+<edge id="bc" from="B" to="C"><lane id="bc_0" index="0" speed="20" length="800"/><lane id="bc_1" index="1" speed="20" length="800"/></edge>
+<edge id="cd" from="C" to="D"><lane id="cd_0" index="0" speed="20" length="800"/><lane id="cd_1" index="1" speed="20" length="800"/></edge>
+<edge id="de" from="D" to="E"><lane id="de_0" index="0" speed="20" length="800"/><lane id="de_1" index="1" speed="20" length="800"/></edge>
+<edge id="ef" from="E" to="F"><lane id="ef_0" index="0" speed="20" length="800"/><lane id="ef_1" index="1" speed="20" length="800"/><lane id="ef_2" index="2" speed="20" length="800"/><lane id="ef_3" index="3" speed="20" length="800"/></edge>
+<edge id="gc" from="G" to="C"><lane id="gc_0" index="0" speed="20" length="900"/><lane id="gc_1" index="1" speed="20" length="900"/></edge>
+<edge id="gp" from="G" to="P"><lane id="gp_0" index="0" speed="20" length="1600"/><lane id="gp_1" index="1" speed="20" length="1600"/></edge>
+<edge id="pr" from="P" to="R"><lane id="pr_0" index="0" speed="20" length="1600"/><lane id="pr_1" index="1" speed="20" length="1600"/></edge>
+<edge id="rf" from="R" to="F"><lane id="rf_0" index="0" speed="20" length="1600"/><lane id="rf_1" index="1" speed="20" length="1600"/></edge>
+<edge id=":C_0_0" function="internal" from="C" to=":C_0"><lane id=":C_0_0_0" index="0" speed="20" length="5"/></edge>
+</net>

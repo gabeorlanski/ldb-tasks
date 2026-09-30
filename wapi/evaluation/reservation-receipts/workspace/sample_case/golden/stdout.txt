@@ -1,0 +1,1 @@
+{"case_id":"visible-create-confirm-json-plain","create_status":201,"confirm_status":200,"read_status":200,"items":["bun","tea"],"events":["create","confirm"],"final_status":"confirmed","plain_contains":true}

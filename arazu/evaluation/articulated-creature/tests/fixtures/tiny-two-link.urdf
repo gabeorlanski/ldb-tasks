@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<robot name="tiny-two-link">
+  <link name="body"><collision><geometry><box size="0.6 0.4 0.4"/></geometry></collision></link>
+  <link name="arm"><collision><geometry><box size="0.5 0.3 0.3"/></geometry></collision></link>
+  <link name="tip"><collision><geometry><box size="0.4 0.24 0.24"/></geometry></collision></link>
+  <joint name="shoulder" type="revolute"><parent link="body"/><child link="arm"/><origin xyz="0.3 0 0"/><axis xyz="0 0 1"/><limit lower="-1.2" upper="1.2" effort="8" velocity="5"/></joint>
+  <joint name="elbow" type="revolute"><parent link="arm"/><child link="tip"/><origin xyz="0.5 0 0"/><axis xyz="0 0 1"/><limit lower="-1.2" upper="1.2" effort="8" velocity="5"/></joint>
+</robot>

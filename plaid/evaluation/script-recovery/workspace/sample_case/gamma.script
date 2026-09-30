@@ -1,0 +1,9 @@
+// Telemetry.
+
+def meter load = if load <= 40 { vent load } { report "límite" } end
+
+def vent cell = charge (cell * 2) end
+
+def stall =
+  let mode = "modo búsqueda" in
+  meter 7

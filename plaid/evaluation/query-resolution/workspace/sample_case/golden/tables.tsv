@@ -1,0 +1,9 @@
+stmt	name	alias	derived	line	col
+1	orders	o	false	3	6
+1	customers	c	false	4	12
+2	orders	o	false	9	6
+2	customers	c	false	10	6
+4	archive	a	false	17	6
+4		s	true	18	12
+5	customers	c	false	29	6
+5	missing	m	false	30	11

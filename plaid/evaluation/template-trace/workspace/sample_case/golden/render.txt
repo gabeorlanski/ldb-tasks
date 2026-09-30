@@ -1,0 +1,13 @@
+Menu — Fête &quot;du jour&quot; &lt;menu&gt; &amp; more
+Tags: [new][solde][öko]
+  • café × 2
+  • thé vert × 0
+No drafts pending.
+zero is truthy → 0
+Contact: Ana &amp; Bo
+Motto: l&#39;été &lt;b&gt;chaud &amp; doux&lt;/b&gt; / l'été <b>chaud & doux</b>
+Chez Ana &amp; Bo — raw Ana & Bo, braces {{stay}} literal
+-- Norr --
+chaud
+froid
+[2026] ✓ sealed

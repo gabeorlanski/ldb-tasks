@@ -1,0 +1,9 @@
+file	name	line	col	start	end	param_count	annotated	max_depth	calls
+alpha.script	banner	3	1	31	62	0	false	1	
+alpha.script	sweep	7	1	89	181	1	true	4	drain
+alpha.script	calib	12	1	183	215	0	false	3	
+alpha.script	relay	14	1	217	240	0	false	2	relay
+beta.script	charge	3	1	50	111	1	false	4	vent
+beta.script	drain	11	1	161	217	1	true	3	charge
+gamma.script	meter	3	1	15	84	1	false	3	vent
+gamma.script	vent	5	1	86	123	1	false	3	charge

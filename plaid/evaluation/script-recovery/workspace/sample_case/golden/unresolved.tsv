@@ -1,0 +1,4 @@
+file	def	name	line	col
+alpha.script	sweep	probe	9	3
+beta.script	charge	report	4	21
+gamma.script	meter	report	3	48

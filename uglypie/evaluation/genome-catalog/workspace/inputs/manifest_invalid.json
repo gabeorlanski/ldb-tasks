@@ -1,0 +1,4 @@
+{
+  "catalog_urls": ["file:///tmp/catalog.html"],
+  "detail_url_template": "http://127.0.0.1:8765/details/{project_id}.html"
+}

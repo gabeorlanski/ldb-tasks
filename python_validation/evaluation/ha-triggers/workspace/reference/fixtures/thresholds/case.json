@@ -1,0 +1,35 @@
+{
+  "case_id": "thresholds",
+  "registry": {
+    "aliases": {"numeric_state": "core"},
+    "platforms": {
+      "core": {"style": "legacy", "schemas": {"numeric_state": "numeric_changed"}},
+      "meter": {"style": "modern", "triggers": {"crossed": {"schema": "numeric_crossed"}}}
+    }
+  },
+  "configs": [
+    {
+      "platform": "numeric_state",
+      "entity_id": ["sensor.power"],
+      "options": {
+        "threshold": {
+          "type": "between",
+          "value_min": {"number": 10, "unit_of_measurement": "W"},
+          "value_max": {"entity": "sensor.power_limit"}
+        }
+      }
+    },
+    {
+      "platform": "meter.crossed",
+      "target": {"entity_id": "sensor.energy"},
+      "options": {
+        "behavior": "last",
+        "threshold": {
+          "type": "outside",
+          "value_min": {"number": 0},
+          "value_max": {"number": 100}
+        }
+      }
+    }
+  ]
+}

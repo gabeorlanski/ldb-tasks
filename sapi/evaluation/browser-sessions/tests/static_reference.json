@@ -1,0 +1,11 @@
+{
+  "library": "fastapi",
+  "metrics": {
+    "stmts": 73,
+    "sloc": 140,
+    "cog_complex": 15,
+    "cyc_complex": 21,
+    "halstead_volume": 3019.07,
+    "parse_tokens": 998
+  }
+}

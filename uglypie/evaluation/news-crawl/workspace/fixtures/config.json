@@ -1,0 +1,8 @@
+{
+  "output_dir": "out",
+  "output_format": "obsidian",
+  "web_max_pages": 2,
+  "web_max_depth": 1,
+  "download_images": true,
+  "dry_run": false
+}

@@ -1,0 +1,9 @@
+name	type_annotation	line	col	depth	args	props	prop_order	children
+item		5	9	2	label:café	note=plain	note	2
+item		6	9	2	lit "# fence			0
+item		7	9	2	first\n  second, indented			0
+item		11	9	2	joined tail			0
+item		13	22	2	😀 after	wide=true	wide	0
+item		16	9	2	u8:255,172,15,10000,1500.0,0.25	scale=2.5e-3	scale	0
+item		19	9	2	7,7	count=2	count	0
+item	final	25	9	2	true,false	alpha=2,zeta=1	zeta,alpha	0

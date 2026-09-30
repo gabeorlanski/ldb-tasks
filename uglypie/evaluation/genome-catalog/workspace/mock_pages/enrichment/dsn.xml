@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<das:DSN xmlns:das="urn:das">
+  <das:SOURCE id="hgtaq1">Thermus build</das:SOURCE>
+  <das:SOURCE id="badbuild">Malformed build
+</das:DSN>

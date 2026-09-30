@@ -1,0 +1,12 @@
+txn_index	name	value	line
+1	source	import	4
+1	batch	feb-01	4
+2	payee	Café Über	9
+2	receipt	r-102	11
+4	ref	RB-9	17
+6	album	red	26
+9	app	é-pay	38
+10	source	employer	46
+13	group	friends	58
+13	split	none	58
+14	note	month end	61

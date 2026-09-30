@@ -1,0 +1,20 @@
+[
+  {"name":"serviceInfo","method":"GET","path":"/api/v1/agent/service-info","auth":"none","accept":"application/json","response":"json"},
+  {"name":"createSession","method":"POST","path":"/api/v1/agent/session","auth":"cluster","contentType":"application/json","accept":"application/json","request":"agentInfo","response":"json"},
+  {"name":"hello","method":"POST","path":"/api/v1/agent/hello","auth":"session","contentType":"application/json","accept":"application/json","request":"hello","response":"no-content"},
+  {"name":"heartbeat","method":"POST","path":"/api/v1/agent/heartbeat","auth":"session","contentType":"application/json","request":"startInfo","response":"no-content"},
+  {"name":"goodbye","method":"POST","path":"/api/v1/agent/goodbye","auth":"session","contentType":"application/json","request":"startInfo","response":"no-content"},
+  {"name":"pollTask","method":"POST","path":"/api/v1/tasks","auth":"session","accept":"application/json","response":"json-or-null"},
+  {"name":"updateTask","method":"POST","path":"/api/v1/tasks/{taskId}","auth":"session","contentType":"application/json","request":"taskStatus","response":"no-content"},
+  {"name":"taskLogs","method":"POST","path":"/api/v1/tasks/log","auth":"session","contentType":"application/json","request":"taskLogs","response":"no-content"},
+  {"name":"getBuildTask","method":"GET","path":"/api/v1/tasks/{taskId}/build","auth":"session","accept":"application/json","response":"json"},
+  {"name":"postBuildEvents","method":"POST","path":"/api/v1/tasks/{taskId}/build","auth":"session","contentType":"application/json","request":"buildEvents","response":"no-content"},
+  {"name":"postBuildLog","method":"POST","path":"/api/v1/tasks/{taskId}/build/_log","auth":"session","contentType":"application/octet-stream","request":"bytes","response":"no-content"},
+  {"name":"getEvaluationTask","method":"GET","path":"/api/v1/tasks/{taskId}/eval","auth":"session","accept":"application/json","response":"json"},
+  {"name":"postEvaluationEvents","method":"POST","path":"/api/v1/tasks/{taskId}/eval","auth":"session","contentType":"application/json","request":"evaluationEvents","response":"no-content"},
+  {"name":"buildDerivationStatus","method":"GET","path":"/api/v1/agent/build/{derivationPath}","auth":"session","accept":"application/json","response":"json-or-null"},
+  {"name":"evaluationDerivationStatus","method":"GET","path":"/api/v1/agent/eval-build/{derivationPath}","auth":"session","accept":"application/json","response":"json-or-null"},
+  {"name":"downloadState","method":"GET","path":"/api/v1/current-task/state/{stateName}/data","auth":"session","accept":"application/octet-stream","response":"bytes-with-content-length"},
+  {"name":"uploadState","method":"PUT","path":"/api/v1/current-task/state/{stateName}/data","auth":"session","contentType":"application/octet-stream","request":"bytes-with-content-length","response":"no-content"},
+  {"name":"writeLog","method":"POST","path":"/api/v1/log","auth":"log","contentType":"application/octet-stream","request":"bytes","response":"no-content"}
+]

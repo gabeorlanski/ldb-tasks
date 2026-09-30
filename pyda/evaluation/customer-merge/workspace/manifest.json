@@ -1,0 +1,8 @@
+{
+  "key": "customer_id",
+  "fields": ["name", "email", "created_date", "status"],
+  "sources": [
+    {"name": "primary", "path": "data/primary.jsonl", "format": "jsonl", "priority": 1, "columns": {"id": "customer_id", "full_name": "name", "joined": "created_date"}},
+    {"name": "billing", "path": "data/billing.csv", "format": "csv", "priority": 2, "columns": {"user_id": "customer_id", "email_address": "email", "created_at": "created_date"}}
+  ]
+}

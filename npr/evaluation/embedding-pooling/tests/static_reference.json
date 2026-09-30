@@ -1,0 +1,11 @@
+{
+  "library": "ndarray",
+  "metrics": {
+    "stmts": 99,
+    "sloc": 455,
+    "cog_complex": 49,
+    "cyc_complex": 48,
+    "halstead_volume": 4854.96,
+    "parse_tokens": 2490
+  }
+}

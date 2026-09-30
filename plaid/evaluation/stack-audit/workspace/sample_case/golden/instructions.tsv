@@ -1,0 +1,18 @@
+index	name	nesting	line	col	start	end	depth_before	depth_after	type_anns	field_anns	var_anns	ann_order
+0	UNPAIR	0	5	3	86	92	1	2				
+1	PUSH	0	6	3	97	123	2	3				
+2	SIZE	0	6	25	126	135	3	3			len	@
+3	DIP	0	7	3	140	168	3	4			below	@
+4	PUSH	1	7	18	155	166	1	2				
+5	EQ	0	8	3	173	175	4	4				
+6	LOOP	0	9	3	231	399	4	3				
+7	LEFT	1	10	5	242	265	3	3		inl		%
+8	IF_LEFT	1	11	5	272	373	3	2				
+9	PAIR	2	12	7	288	306	2	1	p	left	out	:%@
+10	UNPAIR	2	13	7	315	321	1	2				
+11	SWAP	2	15	7	336	340	2	2				
+12	DUP	2	16	7	349	352	2	3				
+13	DROP	2	17	7	361	365	3	2				
+14	PUSH	1	19	5	380	395	2	3				
+15	CONCAT	0	21	3	404	410	3	2				
+16	DROP	0	22	3	415	419	2	1				

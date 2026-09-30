@@ -1,0 +1,5 @@
+# rejected input: parsing stops the run before any evaluation happens
+let
+  tag = "café";
+in
+"café" ++ tag ;

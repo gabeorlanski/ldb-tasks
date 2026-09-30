@@ -1,0 +1,4 @@
+kind	name	line	col
+undefined_fragment	Missing	27	3
+cycle	LoopA	35	1
+unused_fragment	Stale	45	1

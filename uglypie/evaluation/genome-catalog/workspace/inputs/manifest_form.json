@@ -1,0 +1,4 @@
+{
+  "catalog_form_urls": ["http://127.0.0.1:8765/forms/search.html"],
+  "detail_url_template": "http://127.0.0.1:8765/details/{project_id}.html"
+}

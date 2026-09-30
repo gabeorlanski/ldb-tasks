@@ -1,0 +1,11 @@
+{
+  "library": "rapier",
+  "metrics": {
+    "stmts": 585,
+    "sloc": 3380,
+    "cog_complex": 334,
+    "cyc_complex": 238,
+    "halstead_volume": 28317.33,
+    "parse_tokens": 15631
+  }
+}

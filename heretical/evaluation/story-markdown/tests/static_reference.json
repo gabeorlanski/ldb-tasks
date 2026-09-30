@@ -1,0 +1,11 @@
+{
+  "library": "dompurify",
+  "metrics": {
+    "stmts": 51,
+    "sloc": 129,
+    "cog_complex": 34,
+    "cyc_complex": 47,
+    "halstead_volume": 1928.33,
+    "parse_tokens": 1049
+  }
+}

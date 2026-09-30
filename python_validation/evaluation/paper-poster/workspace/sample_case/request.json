@@ -1,0 +1,12 @@
+{
+  "now": 1720000000,
+  "query": {},
+  "storage": {
+    "bucket": "paper-posters",
+    "region": "us-east-1"
+  },
+  "upload": {
+    "content": "%PDF-1.7 sample",
+    "filename": "Graph Learning.pdf"
+  }
+}

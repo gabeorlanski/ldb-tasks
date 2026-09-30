@@ -1,0 +1,95 @@
+{
+  "name": "radio-boundary-race",
+  "seed": 1729,
+  "horizon": 7,
+  "gate_opens_at": 0,
+  "sample_every": 1,
+  "water_capacity": 10,
+  "initial_water": 10,
+  "loading_bays": 1,
+  "medics": 1,
+  "pallet_store_capacity": 1,
+  "vehicle_capacity": 2,
+  "radio_channels": [
+    {
+      "identifier": "A",
+      "capacity": 1
+    },
+    {
+      "identifier": "B",
+      "capacity": 1
+    }
+  ],
+  "vehicles": [
+    {
+      "identifier": "vehicle-a",
+      "terrain": "road"
+    },
+    {
+      "identifier": "vehicle-b",
+      "terrain": "road"
+    }
+  ],
+  "pallets": [],
+  "deliveries": [
+    {
+      "identifier": "first-a",
+      "priority": 1,
+      "terrain": "road",
+      "kits": 0,
+      "fuel": 1,
+      "route_time": 0,
+      "patience": 10,
+      "arrival": 0,
+      "radio_channels": [
+        "A"
+      ],
+      "radio_time": 5
+    },
+    {
+      "identifier": "second-b",
+      "priority": 1,
+      "terrain": "road",
+      "kits": 0,
+      "fuel": 1,
+      "route_time": 0,
+      "patience": 10,
+      "arrival": 0,
+      "radio_channels": [
+        "B"
+      ],
+      "radio_time": 5
+    },
+    {
+      "identifier": "third-boundary",
+      "priority": 1,
+      "terrain": "road",
+      "kits": 0,
+      "fuel": 1,
+      "route_time": 0,
+      "patience": 5,
+      "arrival": 0,
+      "radio_channels": [
+        "A",
+        "B"
+      ],
+      "radio_time": 1
+    },
+    {
+      "identifier": "fourth-after-release",
+      "priority": 1,
+      "terrain": "road",
+      "kits": 0,
+      "fuel": 1,
+      "route_time": 0,
+      "patience": 10,
+      "arrival": 5,
+      "radio_channels": [
+        "A",
+        "B"
+      ],
+      "radio_time": 1
+    }
+  ],
+  "emergencies": []
+}

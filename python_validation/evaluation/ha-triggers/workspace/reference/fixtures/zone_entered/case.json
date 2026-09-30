@@ -1,0 +1,18 @@
+{
+  "case_id": "zone_entered",
+  "registry": {
+    "platforms": {
+      "zone": {
+        "style": "modern",
+        "triggers": {"entered": {"schema": "zone_modern"}}
+      }
+    }
+  },
+  "configs": [
+    {
+      "platform": "zone.entered",
+      "target": {"entity_id": ["person.ada", "device_tracker.phone"]},
+      "options": {"zone": "zone.home"}
+    }
+  ]
+}

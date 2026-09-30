@@ -1,0 +1,11 @@
+{
+  "library": "tantivy",
+  "metrics": {
+    "stmts": 63,
+    "sloc": 320,
+    "cog_complex": 8,
+    "cyc_complex": 18,
+    "halstead_volume": 2675.04,
+    "parse_tokens": 1606
+  }
+}

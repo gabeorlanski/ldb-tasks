@@ -1,0 +1,5 @@
+name	on_type	line	col	spread_count
+Core	Item	30	1	1
+LoopA	Item	35	1	2
+LoopB	Item	40	1	1
+Stale	Item	45	1	0

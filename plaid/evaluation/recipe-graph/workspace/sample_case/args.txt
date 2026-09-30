@@ -1,0 +1,3 @@
+BASE=mirror.internal:8443/tools/base
+CHANNEL=beta
+UNUSED=ignored

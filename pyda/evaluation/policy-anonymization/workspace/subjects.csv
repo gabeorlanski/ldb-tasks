@@ -1,0 +1,5 @@
+subject_ref,version,email,birth_date,note,status
+tenant-a:101,1,ana@example.com,1988-04-03,preferred contact,active
+tenant-a:101,2,ana.new@example.com,1988-04-03,,active
+tenant-b:901,1,alias@example.net,1988-04-03,merged profile,active
+tenant-a:102,1,bo@example.com,1993-11-20,,inactive

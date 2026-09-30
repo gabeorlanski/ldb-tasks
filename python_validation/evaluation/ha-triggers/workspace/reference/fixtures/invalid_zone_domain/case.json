@@ -1,0 +1,15 @@
+{
+  "case_id": "invalid_zone_domain",
+  "registry": {
+    "aliases": {"zone": "core"},
+    "platforms": {
+      "core": {
+        "style": "legacy",
+        "schemas": {"zone": "zone_legacy"}
+      }
+    }
+  },
+  "configs": [
+    {"platform": "zone", "entity_id": "person.ada", "zone": "sensor.not_zone"}
+  ]
+}

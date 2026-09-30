@@ -1,0 +1,14 @@
+column-limit: 80
+indentation: 4
+function-arrows: leading-args
+comma-style: leading
+record-style: aligned
+import-export-style: leading
+indent-wheres: true
+record-brace-space: true
+let-style: newline
+in-style: left-align
+if-style: indented
+newlines-between-decls: 1
+respectful: false
+unicode: never

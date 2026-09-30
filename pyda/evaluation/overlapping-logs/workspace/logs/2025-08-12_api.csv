@@ -1,0 +1,3 @@
+event_id,severity,message
+e1,INFO,started
+e2,ERROR,failed

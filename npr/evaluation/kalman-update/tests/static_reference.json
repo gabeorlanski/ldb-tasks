@@ -1,0 +1,11 @@
+{
+  "library": "nalgebra",
+  "metrics": {
+    "stmts": 84,
+    "sloc": 449,
+    "cog_complex": 54,
+    "cyc_complex": 37,
+    "halstead_volume": 3881.25,
+    "parse_tokens": 1984
+  }
+}

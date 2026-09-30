@@ -1,0 +1,6 @@
+query PackageByName($name: String!) {
+  package(name: $name) {
+    name
+    tasks
+  }
+}

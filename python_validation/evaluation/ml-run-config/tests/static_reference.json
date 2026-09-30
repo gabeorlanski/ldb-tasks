@@ -1,0 +1,11 @@
+{
+  "library": "pydantic",
+  "metrics": {
+    "stmts": 322,
+    "sloc": 379,
+    "cog_complex": 79,
+    "cyc_complex": 88,
+    "halstead_volume": 11666.96,
+    "parse_tokens": 2975
+  }
+}

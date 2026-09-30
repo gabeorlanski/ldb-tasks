@@ -1,0 +1,105 @@
+{
+  "scheduler": "drr",
+  "until": 20,
+  "level_1_rate_bps": 96000,
+  "level_2_rate_bps": 48000,
+  "inter_level_capacity": 4,
+  "repair_crews": 1,
+  "monitor_interval": 1,
+  "monitor_in_service": true,
+  "transmitters": [
+    {"id": "tx_0", "groups": ["grp_0"]},
+    {"id": "tx_1", "groups": ["grp_1"]}
+  ],
+  "outages": [],
+  "groups": [
+    {
+      "id": "grp_0",
+      "flows": [
+        {
+          "id": "grp_0_flow_0",
+          "weight": 1,
+          "first_at": 0,
+          "finish": 3,
+          "packet_count": 3,
+          "interarrivals": [1],
+          "sizes": [1000],
+          "port_rate_bps": 0,
+          "queue_limit": null,
+          "limit_bytes": false,
+          "buffer_patience": null
+        },
+        {
+          "id": "grp_0_flow_1",
+          "weight": 1,
+          "first_at": 0,
+          "finish": 3,
+          "packet_count": 3,
+          "interarrivals": [1],
+          "sizes": [1000],
+          "port_rate_bps": 0,
+          "queue_limit": null,
+          "limit_bytes": false,
+          "buffer_patience": null
+        },
+        {
+          "id": "grp_0_flow_2",
+          "weight": 1,
+          "first_at": 0,
+          "finish": 3,
+          "packet_count": 3,
+          "interarrivals": [1],
+          "sizes": [1000],
+          "port_rate_bps": 0,
+          "queue_limit": null,
+          "limit_bytes": false,
+          "buffer_patience": null
+        }
+      ]
+    },
+    {
+      "id": "grp_1",
+      "flows": [
+        {
+          "id": "grp_1_flow_0",
+          "weight": 1,
+          "first_at": 0,
+          "finish": 3,
+          "packet_count": 3,
+          "interarrivals": [1],
+          "sizes": [1000],
+          "port_rate_bps": 0,
+          "queue_limit": null,
+          "limit_bytes": false,
+          "buffer_patience": null
+        },
+        {
+          "id": "grp_1_flow_1",
+          "weight": 1,
+          "first_at": 0,
+          "finish": 3,
+          "packet_count": 3,
+          "interarrivals": [1],
+          "sizes": [1000],
+          "port_rate_bps": 0,
+          "queue_limit": null,
+          "limit_bytes": false,
+          "buffer_patience": null
+        },
+        {
+          "id": "grp_1_flow_2",
+          "weight": 1,
+          "first_at": 0,
+          "finish": 3,
+          "packet_count": 3,
+          "interarrivals": [1],
+          "sizes": [1000],
+          "port_rate_bps": 0,
+          "queue_limit": null,
+          "limit_bytes": false,
+          "buffer_patience": null
+        }
+      ]
+    }
+  ]
+}

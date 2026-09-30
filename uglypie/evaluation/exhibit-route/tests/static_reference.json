@@ -1,0 +1,11 @@
+{
+  "library": "beautifulsoup4",
+  "metrics": {
+    "stmts": 325,
+    "sloc": 448,
+    "cog_complex": 121,
+    "cyc_complex": 107,
+    "halstead_volume": 13216.78,
+    "parse_tokens": 3565
+  }
+}

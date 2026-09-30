@@ -1,0 +1,4 @@
+{"name":"cold","queue":{"typ":"build","id":"task-42"}}
+{"name":"reuse","session":"session:kept:parent=cluster-A","queue":null}
+{"name":"service-bad","service_bad":true}
+{"name":"empty-task-id","task_id":""}

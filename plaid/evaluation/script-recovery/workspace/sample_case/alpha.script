@@ -1,0 +1,14 @@
+// Fleet maintenance scripts.
+
+def banner = "señal lista" end
+
+def gauge : cmd = 3 end
+
+def sweep grid : int -> cmd unit =
+  let width = grid * 8 in
+  probe width ; drain width
+end
+
+def calib = \meter. meter 40 end
+
+def relay = relay 5 end

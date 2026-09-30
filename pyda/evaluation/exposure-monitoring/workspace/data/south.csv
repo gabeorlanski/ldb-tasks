@@ -1,0 +1,4 @@
+feature_id,observed_at,category,exposure,alternate,label
+s1,2024-01-20T00:00:00Z,residential,12,120,
+s1,2024-02-10T00:00:00Z,residential,18,180,
+s2,2024-01-05T00:00:00Z,unmapped,14,140,

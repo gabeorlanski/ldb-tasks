@@ -1,0 +1,16 @@
+{
+  "links": {"file": "subject_links.csv", "left": "left_ref", "right": "right_ref"},
+  "tables": {
+    "subjects.csv": {
+      "subject_ref": {"kind": "token", "domain": "subject"},
+      "email": {"kind": "email", "entity": "subject_ref"},
+      "birth_date": {"kind": "date_shift", "entity": "subject_ref"},
+      "note": {"kind": "redact"}
+    },
+    "accounts.csv": {
+      "subject_ref": {"kind": "token", "domain": "subject"},
+      "account_ref": {"kind": "token", "domain": "account"},
+      "billing_email": {"kind": "email", "entity": "subject_ref"}
+    }
+  }
+}

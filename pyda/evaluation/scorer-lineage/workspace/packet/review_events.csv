@@ -1,0 +1,4 @@
+event_id,request_id,event_type,event_ts,ingested_at,actor
+E1,R1,approve,2026-01-01T11:00:00Z,2026-01-01T11:01:00Z,analyst-a
+E2,R2,manual_review,2026-01-01T11:05:00Z,2026-01-01T11:06:00Z,analyst-b
+E3,R1,manual_review,2026-01-01T11:10:00Z,2026-01-01T11:11:00Z,analyst-c

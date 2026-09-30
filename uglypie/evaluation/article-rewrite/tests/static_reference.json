@@ -1,0 +1,11 @@
+{
+  "library": "lxml",
+  "metrics": {
+    "stmts": 381,
+    "sloc": 491,
+    "cog_complex": 143,
+    "cyc_complex": 160,
+    "halstead_volume": 14793.9,
+    "parse_tokens": 3956
+  }
+}

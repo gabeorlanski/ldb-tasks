@@ -1,0 +1,7 @@
+{
+  "measure": "exposure",
+  "categories": ["residential", "mixed", "unmapped"],
+  "from": "2024-01-01T00:00:00Z",
+  "through": "2024-03-31T23:59:59Z",
+  "minimum_value": 10.0
+}

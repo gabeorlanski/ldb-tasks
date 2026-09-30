@@ -1,0 +1,4 @@
+symbol,trade_id,observed_at,revision,side,size
+AAA,t2,2026-01-01T09:01:00-05:00,1,B,80
+BBB,u2,2026-01-01T14:01:00+00:00,0,B,150
+BBB,u3,2026-01-01T14:02:00+00:00,0,S,50

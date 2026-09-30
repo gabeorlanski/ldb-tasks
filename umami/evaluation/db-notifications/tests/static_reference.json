@@ -1,0 +1,11 @@
+{
+  "library": "unagi-chan",
+  "metrics": {
+    "stmts": 64,
+    "sloc": 90,
+    "cog_complex": 7,
+    "cyc_complex": 22,
+    "halstead_volume": 1866.92,
+    "parse_tokens": 599
+  }
+}

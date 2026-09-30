@@ -1,0 +1,7 @@
+{
+  "catalog_urls": ["http://127.0.0.1:8765/catalog/main.html"],
+  "detail_url_template": "http://127.0.0.1:8765/details/{project_id}.html",
+  "enrichment": {
+    "dsn_url": "http://127.0.0.1:8765/enrichment/dsn.xml"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "library": "simpy",
+  "metrics": {
+    "stmts": 182,
+    "sloc": 299,
+    "cog_complex": 56,
+    "cyc_complex": 58,
+    "halstead_volume": 8551.88,
+    "parse_tokens": 2491
+  }
+}

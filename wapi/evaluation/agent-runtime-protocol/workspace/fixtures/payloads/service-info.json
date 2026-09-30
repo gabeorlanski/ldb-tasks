@@ -1,0 +1,5 @@
+{
+  "version": [1, 0],
+  "agentSocketBaseURL": "http://control.example.invalid/agent-socket",
+  "bulkSocketBaseURL": "https://bulk.example.invalid/socket"
+}

@@ -1,0 +1,11 @@
+{
+  "library": "chumsky",
+  "metrics": {
+    "stmts": 105,
+    "sloc": 834,
+    "cog_complex": 46,
+    "cyc_complex": 36,
+    "halstead_volume": 5876.01,
+    "parse_tokens": 3626
+  }
+}

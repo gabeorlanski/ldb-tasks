@@ -1,0 +1,6 @@
+trade_id,counterparty_id,asset_class,hedging_set,currency,notional,mtm,start_date,end_date,delta,margined
+T1,CP_A,IR,IR_USD,USD,1000000,12000,2025-04-29,2027-04-29,1,false
+T2,CP_A,IR,IR_USD,USD,600000,-3000,2025-04-29,2026-04-29,-1,false
+T3,CP_A,FX,FX_EURUSD,EUR,250000,4000,2025-04-29,2025-10-29,1,false
+T4,CP_B,IR,IR_EUR,EUR,800000,9000,2025-04-29,2028-04-29,1,true
+T5,CP_B,CR,CR_IG,USD,300000,-2500,2025-04-29,2026-10-29,-1,true

@@ -1,0 +1,71 @@
+{
+  "ok": true,
+  "result": {
+    "config": {
+      "api_key": "abcd1234-secret",
+      "timeout": 45,
+      "max_retries": 2,
+      "max_rate_limit_retries": 3,
+      "base_url": "https://api.example.test",
+      "validation_mode": "warn",
+      "unknown_param_policy": "warn",
+      "rate_limit": {
+        "daily_limit": 500,
+        "requests_per_second": 5,
+        "requests_per_minute": 900
+      },
+      "logging": {
+        "level": "DEBUG",
+        "handlers": {
+          "console": {
+            "class_name": "StreamHandler",
+            "level": "INFO",
+            "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+            "handler_kwargs": {}
+          }
+        },
+        "log_path": null
+      },
+      "cache": {
+        "enabled": true,
+        "backend": "redis",
+        "default_ttl": 120,
+        "ttl_overrides": {},
+        "cache_dir": null,
+        "redis_url": "redis://cache"
+      },
+      "embedding_provider": "beta",
+      "embedding_model": "embed-small",
+      "embedding_api_key": "beta-key-123",
+      "vector_store_path": "/tmp/vector-store",
+      "similarity_threshold": 0.75,
+      "max_tools": 8,
+      "embedding_config": {
+        "provider": "beta",
+        "model": "embed-small",
+        "api_key": "beta-key-123",
+        "kwargs": {
+          "batch": 2
+        },
+        "endpoint": null
+      }
+    },
+    "runtime": {
+      "http_timeout": 45,
+      "http_headers": {
+        "apikey": "abcd1234-secret"
+      },
+      "rate_limit": {
+        "daily_limit": 500,
+        "requests_per_second": 5,
+        "requests_per_minute": 900
+      },
+      "validation_mode": "warn",
+      "unknown_param_policy": "warn",
+      "embedding_provider": "beta",
+      "cache_enabled": true,
+      "callback_present": false
+    },
+    "projection": "<free-form string that never contains 'abcd1234-secret' or 'beta-key-123'>"
+  }
+}

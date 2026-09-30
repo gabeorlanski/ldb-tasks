@@ -1,0 +1,16 @@
+layer	index	source_key	resolved	alias_chain	line	col
+base	0	esc	blocked()		20	3
+base	1	e	key(e)		20	6
+base	2	r	key(r)		20	8
+base	3	l	mod(C,key(l))	@nav>@mid>@deep	20	10
+base	4	a	trans()		20	15
+base	5	spc	pause(250)		20	17
+base	6	tab	text("hi\n")		20	22
+base	7	ret	macro(key(a),key(b),delay=30)		20	29
+punch	0	esc	mod(C,mod(S,key(a)))		23	3
+punch	1	e	mod(M,key(e))		23	9
+punch	2	r	trans()		23	13
+punch	4	a	macro(key(l),key(r))		23	21
+punch	5	spc	key(spc)		23	28
+punch	6	tab	key(tab)		23	32
+punch	7	ret	mod(A,key(ret))		23	36

@@ -1,0 +1,12 @@
+{
+  "hostname": "worker-01",
+  "agentVersion": "1.0.0",
+  "runtimeVersion": "2.18",
+  "protocolVersion": 1,
+  "platforms": ["x86_64-linux"],
+  "systemFeatures": ["kvm"],
+  "pushCaches": ["cache-main"],
+  "substituters": ["https://cache.example.invalid"],
+  "concurrentTasks": 2,
+  "labels": {"region": "local"}
+}

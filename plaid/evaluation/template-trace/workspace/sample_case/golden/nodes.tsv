@@ -1,0 +1,25 @@
+file	kind	path	line	col	depth	standalone
+badge.tpl	var	year	1	2	0	false
+badge.tpl	include	seal	1	12	0	false
+footer.tpl	var	brand	1	4	0	false
+footer.tpl	var	note	2	1	0	false
+footer.tpl	include	badge	3	1	0	true
+item_row.tpl	var	label	1	3	0	false
+item_row.tpl	var	qty	1	15	0	false
+main.tpl	var	title	1	8	0	false
+main.tpl	comment		2	1	0	true
+main.tpl	section	tags	3	7	0	false
+main.tpl	var	.	3	17	1	false
+main.tpl	section	items	4	1	0	true
+main.tpl	include	item_row	5	3	1	true
+main.tpl	inverted	drafts	7	1	0	true
+main.tpl	section	zero	10	1	0	true
+main.tpl	var	.	11	18	1	false
+main.tpl	var	owner.name	13	10	0	false
+main.tpl	var	motto	14	8	0	false
+main.tpl	raw	motto	14	20	0	false
+main.tpl	delim		15	1	0	true
+main.tpl	section	owner	16	1	0	true
+main.tpl	var	name	17	6	1	false
+main.tpl	raw	name	17	21	1	false
+main.tpl	include	footer	19	1	0	true

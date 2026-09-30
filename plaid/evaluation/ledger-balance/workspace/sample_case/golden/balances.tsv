@@ -1,0 +1,17 @@
+account	commodity	quantity
+assets:bank:checking	USD	3455.6
+assets:cash	USD	60
+assets:cash:eur	EUR	65
+assets:collectibles	vintage stamp	3
+assets:crédit:é-wallet	USD	20
+equity:acquisitions	vintage stamp	-3
+equity:conversion	EUR	-65
+equity:conversion	USD	43.2
+equity:opening	USD	-1330
+expenses:food	USD	4.6
+expenses:food:coffee	USD	3.25
+expenses:food:groceries	USD	62.35
+expenses:fun:board games	USD	18
+expenses:utilities	USD	75
+income:rebates	USD	-12
+income:salary	USD	-2400

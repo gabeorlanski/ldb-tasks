@@ -1,0 +1,5 @@
+# Deliberately invalid: the first offense stops the run, so errors.tsv is the
+# only report file written.
+query Report($id: ID!) {
+  note(text: "café ☃") ?
+}

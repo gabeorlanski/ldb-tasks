@@ -1,0 +1,7 @@
+{
+  "sources": [
+    {"source": "north", "path": "data/north/*.csv"},
+    {"source": "south", "path": "data/south.csv"}
+  ],
+  "category_history": "data/category-history.csv"
+}

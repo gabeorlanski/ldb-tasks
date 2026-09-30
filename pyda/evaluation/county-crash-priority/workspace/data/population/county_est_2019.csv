@@ -1,0 +1,511 @@
+STATE,COUNTY,STNAME,CTYNAME,POPESTIMATE2017,POPESTIMATE2018,POPESTIMATE2019
+22,001,Louisiana,Acadia Parish,62559,62214,62045
+22,003,Louisiana,Allen Parish,25583,25567,25627
+22,005,Louisiana,Ascension Parish,123177,124858,126604
+22,007,Louisiana,Assumption Parish,22568,22279,21891
+22,009,Louisiana,Avoyelles Parish,40836,40402,40144
+22,011,Louisiana,Beauregard Parish,36847,37369,37497
+22,013,Louisiana,Bienville Parish,13631,13343,13241
+22,015,Louisiana,Bossier Parish,126959,127022,127039
+22,017,Louisiana,Caddo Parish,245935,242833,240204
+22,019,Louisiana,Calcasieu Parish,202466,203177,203436
+22,021,Louisiana,Caldwell Parish,9959,9964,9918
+22,023,Louisiana,Cameron Parish,6944,7013,6973
+22,025,Louisiana,Catahoula Parish,9830,9606,9494
+22,027,Louisiana,Claiborne Parish,15953,15895,15670
+22,029,Louisiana,Concordia Parish,19846,19586,19259
+22,031,Louisiana,De Soto Parish,27267,27426,27463
+22,033,Louisiana,East Baton Rouge Parish,444511,442058,440059
+22,035,Louisiana,East Carroll Parish,7111,6994,6861
+22,037,Louisiana,East Feliciana Parish,19380,19286,19135
+22,039,Louisiana,Evangeline Parish,33663,33496,33395
+22,041,Louisiana,Franklin Parish,20256,20164,20015
+22,043,Louisiana,Grant Parish,22296,22436,22389
+22,045,Louisiana,Iberia Parish,71982,70905,69830
+22,047,Louisiana,Iberville Parish,32906,32693,32511
+22,049,Louisiana,Jackson Parish,15898,15912,15744
+22,051,Louisiana,Jefferson Parish,436126,433884,432493
+22,053,Louisiana,Jefferson Davis Parish,31480,31537,31368
+22,055,Louisiana,Lafayette Parish,241756,243113,244390
+22,057,Louisiana,Lafourche Parish,98123,97981,97614
+22,059,Louisiana,LaSalle Parish,14887,14901,14892
+22,061,Louisiana,Lincoln Parish,47471,47112,46742
+22,063,Louisiana,Livingston Parish,137712,139394,140789
+22,065,Louisiana,Madison Parish,11342,11196,10951
+22,067,Louisiana,Morehouse Parish,25655,25324,24874
+22,069,Louisiana,Natchitoches Parish,39042,38616,38158
+22,071,Louisiana,Orleans Parish,391493,391004,390144
+22,073,Louisiana,Ouachita Parish,155841,154571,153279
+22,075,Louisiana,Plaquemines Parish,23348,23385,23197
+22,077,Louisiana,Pointe Coupee Parish,22164,21879,21730
+22,079,Louisiana,Rapides Parish,131253,130326,129648
+22,081,Louisiana,Red River Parish,8527,8526,8442
+22,083,Louisiana,Richland Parish,20413,20223,20122
+22,085,Louisiana,Sabine Parish,23909,23901,23884
+22,087,Louisiana,St. Bernard Parish,46110,46780,47244
+22,089,Louisiana,St. Charles Parish,52620,52775,53100
+22,091,Louisiana,St. Helena Parish,10322,10187,10132
+22,093,Louisiana,St. James Parish,21380,21151,21096
+22,095,Louisiana,St. John the Baptist Parish,43328,43119,42837
+22,097,Louisiana,St. Landry Parish,83535,82782,82124
+22,099,Louisiana,St. Martin Parish,54066,53562,53431
+22,101,Louisiana,St. Mary Parish,50708,49841,49348
+22,103,Louisiana,St. Tammany Parish,255921,258035,260419
+22,105,Louisiana,Tangipahoa Parish,132353,133837,134758
+22,107,Louisiana,Tensas Parish,4574,4470,4334
+22,109,Louisiana,Terrebonne Parish,111823,111163,110461
+22,111,Louisiana,Union Parish,22398,22243,22108
+22,113,Louisiana,Vermilion Parish,59936,59886,59511
+22,115,Louisiana,Vernon Parish,49789,48101,47429
+22,117,Louisiana,Washington Parish,46649,46588,46194
+22,119,Louisiana,Webster Parish,39264,38792,38340
+22,121,Louisiana,West Baton Rouge Parish,26184,26400,26465
+22,123,Louisiana,West Carroll Parish,10974,10977,10830
+22,125,Louisiana,West Feliciana Parish,15371,15492,15568
+22,127,Louisiana,Winn Parish,14350,14138,13904
+28,001,Mississippi,Adams County,31462,31044,30693
+28,003,Mississippi,Alcorn County,37165,36810,36953
+28,005,Mississippi,Amite County,12448,12327,12297
+28,007,Mississippi,Attala County,18467,18328,18174
+28,009,Mississippi,Benton County,8255,8243,8259
+28,011,Mississippi,Bolivar County,31718,31115,30628
+28,013,Mississippi,Calhoun County,14508,14432,14361
+28,015,Mississippi,Carroll County,10094,9920,9947
+28,017,Mississippi,Chickasaw County,17144,17100,17103
+28,019,Mississippi,Choctaw County,8240,8265,8210
+28,021,Mississippi,Claiborne County,9026,9072,8988
+28,023,Mississippi,Clarke County,15805,15585,15541
+28,025,Mississippi,Clay County,19621,19404,19316
+28,027,Mississippi,Coahoma County,23214,22605,22124
+28,029,Mississippi,Copiah County,28528,28400,28065
+28,031,Mississippi,Covington County,19014,18825,18636
+28,033,Mississippi,DeSoto County,179005,181932,184945
+28,035,Mississippi,Forrest County,75155,74912,74897
+28,037,Mississippi,Franklin County,7754,7758,7713
+28,039,Mississippi,George County,23951,24110,24500
+28,041,Mississippi,Greene County,13529,13996,13586
+28,043,Mississippi,Grenada County,21037,20984,20758
+28,045,Mississippi,Hancock County,46949,47278,47632
+28,047,Mississippi,Harrison County,204966,206284,208080
+28,049,Mississippi,Hinds County,239929,235824,231840
+28,051,Mississippi,Holmes County,17849,17444,17010
+28,053,Mississippi,Humphreys County,8333,8256,8064
+28,055,Mississippi,Issaquena County,1341,1307,1327
+28,057,Mississippi,Itawamba County,23499,23461,23390
+28,059,Mississippi,Jackson County,142246,143127,143617
+28,061,Mississippi,Jasper County,16574,16425,16383
+28,063,Mississippi,Jefferson County,7227,7093,6990
+28,065,Mississippi,Jefferson Davis County,11284,11215,11128
+28,067,Mississippi,Jones County,68364,68196,68098
+28,069,Mississippi,Kemper County,10093,9733,9742
+28,071,Mississippi,Lafayette County,54178,53542,54019
+28,073,Mississippi,Lamar County,61536,62637,63343
+28,075,Mississippi,Lauderdale County,76309,75238,74125
+28,077,Mississippi,Lawrence County,12629,12448,12586
+28,079,Mississippi,Leake County,22819,22791,22786
+28,081,Mississippi,Lee County,85071,85276,85436
+28,083,Mississippi,Leflore County,29292,28616,28183
+28,085,Mississippi,Lincoln County,34340,34210,34153
+28,087,Mississippi,Lowndes County,59147,58760,58595
+28,089,Mississippi,Madison County,104584,105648,106272
+28,091,Mississippi,Marion County,25108,24752,24573
+28,093,Mississippi,Marshall County,35590,35436,35294
+28,095,Mississippi,Monroe County,35851,35543,35252
+28,097,Mississippi,Montgomery County,10143,9994,9775
+28,099,Mississippi,Neshoba County,29435,29151,29118
+28,101,Mississippi,Newton County,21396,21355,21018
+28,103,Mississippi,Noxubee County,10711,10550,10417
+28,105,Mississippi,Oktibbeha County,49678,49249,49587
+28,107,Mississippi,Panola County,34158,34156,34192
+28,109,Mississippi,Pearl River County,55255,55323,55535
+28,111,Mississippi,Perry County,12014,11918,11973
+28,113,Mississippi,Pike County,39510,39380,39288
+28,115,Mississippi,Pontotoc County,31709,31881,32174
+28,117,Mississippi,Prentiss County,25215,25088,25126
+28,119,Mississippi,Quitman County,7208,7055,6792
+28,121,Mississippi,Rankin County,152904,154250,155271
+28,123,Mississippi,Scott County,28436,28319,28124
+28,125,Mississippi,Sharkey County,4415,4375,4321
+28,127,Mississippi,Simpson County,26905,26717,26658
+28,129,Mississippi,Smith County,16073,16029,15916
+28,131,Mississippi,Stone County,18593,17997,18336
+28,133,Mississippi,Sunflower County,26142,26211,25110
+28,135,Mississippi,Tallahatchie County,14094,13961,13809
+28,137,Mississippi,Tate County,28581,28347,28321
+28,139,Mississippi,Tippah County,21953,22039,22015
+28,141,Mississippi,Tishomingo County,19518,19383,19383
+28,143,Mississippi,Tunica County,9984,9922,9632
+28,145,Mississippi,Union County,28486,28615,28815
+28,147,Mississippi,Walthall County,14505,14436,14286
+28,149,Mississippi,Warren County,46682,46093,45381
+28,151,Mississippi,Washington County,46197,45036,43909
+28,153,Mississippi,Wayne County,20430,20296,20183
+28,155,Mississippi,Webster County,9732,9788,9689
+28,157,Mississippi,Wilkinson County,8855,8781,8630
+28,159,Mississippi,Winston County,18237,18164,17955
+28,161,Mississippi,Yalobusha County,12449,12361,12108
+28,163,Mississippi,Yazoo County,28659,29093,29690
+35,001,New Mexico,Bernalillo County,678203,678034,679121
+35,003,New Mexico,Catron County,3553,3554,3527
+35,005,New Mexico,Chaves County,65080,64554,64615
+35,006,New Mexico,Cibola County,26921,26766,26675
+35,007,New Mexico,Colfax County,12151,12071,11941
+35,009,New Mexico,Curry County,49794,49338,48954
+35,011,New Mexico,De Baca County,1805,1779,1748
+35,013,New Mexico,Doña Ana County,216174,217278,218195
+35,015,New Mexico,Eddy County,57108,57729,58460
+35,017,New Mexico,Grant County,27642,27303,26998
+35,019,New Mexico,Guadalupe County,4410,4334,4300
+35,021,New Mexico,Harding County,684,650,625
+35,023,New Mexico,Hidalgo County,4298,4231,4198
+35,025,New Mexico,Lea County,69046,69543,71070
+35,027,New Mexico,Lincoln County,19468,19518,19572
+35,028,New Mexico,Los Alamos County,18742,18988,19369
+35,029,New Mexico,Luna County,24100,23877,23709
+35,031,New Mexico,McKinley County,72423,71911,71367
+35,033,New Mexico,Mora County,4530,4487,4521
+35,035,New Mexico,Otero County,66121,66659,67490
+35,037,New Mexico,Quay County,8299,8242,8253
+35,039,New Mexico,Rio Arriba County,39235,39023,38921
+35,041,New Mexico,Roosevelt County,18900,18759,18500
+35,043,New Mexico,Sandoval County,142689,145096,146748
+35,045,New Mexico,San Juan County,126917,125499,123958
+35,047,New Mexico,San Miguel County,27715,27480,27277
+35,049,New Mexico,Santa Fe County,149491,149761,150358
+35,051,New Mexico,Sierra County,11064,10949,10791
+35,053,New Mexico,Socorro County,16832,16704,16637
+35,055,New Mexico,Taos County,32790,32699,32723
+35,057,New Mexico,Torrance County,15535,15512,15461
+35,059,New Mexico,Union County,4180,4108,4059
+35,061,New Mexico,Valencia County,75884,76305,76688
+40,001,Oklahoma,Adair County,22119,22224,22194
+40,003,Oklahoma,Alfalfa County,5913,5765,5702
+40,005,Oklahoma,Atoka County,13779,13795,13758
+40,007,Oklahoma,Beaver County,5364,5318,5311
+40,009,Oklahoma,Beckham County,21779,21720,21859
+40,011,Oklahoma,Blaine County,9512,9454,9429
+40,013,Oklahoma,Bryan County,46481,47191,47995
+40,015,Oklahoma,Caddo County,29356,29028,28762
+40,017,Oklahoma,Canadian County,140001,144426,148306
+40,019,Oklahoma,Carter County,48273,48213,48111
+40,021,Oklahoma,Cherokee County,48891,48607,48657
+40,023,Oklahoma,Choctaw County,14804,14698,14672
+40,025,Oklahoma,Cimarron County,2152,2165,2137
+40,027,Oklahoma,Cleveland County,279542,281166,284014
+40,029,Oklahoma,Coal County,5630,5520,5495
+40,031,Oklahoma,Comanche County,121786,120528,120749
+40,033,Oklahoma,Cotton County,5863,5820,5666
+40,035,Oklahoma,Craig County,14332,14300,14142
+40,037,Oklahoma,Creek County,71890,71730,71522
+40,039,Oklahoma,Custer County,28974,28995,29003
+40,041,Oklahoma,Delaware County,42672,42814,43009
+40,043,Oklahoma,Dewey County,4899,4931,4891
+40,045,Oklahoma,Ellis County,3970,3939,3859
+40,047,Oklahoma,Garfield County,61600,61095,61056
+40,049,Oklahoma,Garvin County,27857,27746,27711
+40,051,Oklahoma,Grady County,54829,55448,55834
+40,053,Oklahoma,Grant County,4379,4321,4333
+40,055,Oklahoma,Greer County,5793,5814,5712
+40,057,Oklahoma,Harmon County,2710,2691,2653
+40,059,Oklahoma,Harper County,3784,3727,3688
+40,061,Oklahoma,Haskell County,12726,12636,12627
+40,063,Oklahoma,Hughes County,13265,13305,13279
+40,065,Oklahoma,Jackson County,25112,24775,24530
+40,067,Oklahoma,Jefferson County,6164,6106,6002
+40,069,Oklahoma,Johnston County,11121,11020,11085
+40,071,Oklahoma,Kay County,44403,43944,43538
+40,073,Oklahoma,Kingfisher County,15688,15814,15765
+40,075,Oklahoma,Kiowa County,8849,8732,8708
+40,077,Oklahoma,Latimer County,10318,10175,10073
+40,079,Oklahoma,Le Flore County,50020,50093,49853
+40,081,Oklahoma,Lincoln County,34961,34837,34877
+40,083,Oklahoma,Logan County,46785,47248,48011
+40,085,Oklahoma,Love County,10076,10156,10253
+40,087,Oklahoma,McClain County,39306,39887,40474
+40,089,Oklahoma,McCurtain County,33031,32967,32832
+40,091,Oklahoma,McIntosh County,19701,19745,19596
+40,093,Oklahoma,Major County,7684,7627,7629
+40,095,Oklahoma,Marshall County,16364,16727,16931
+40,097,Oklahoma,Mayes County,40988,41210,41100
+40,099,Oklahoma,Murray County,13918,13968,14073
+40,101,Oklahoma,Muskogee County,69027,68324,67997
+40,103,Oklahoma,Noble County,11303,11279,11131
+40,105,Oklahoma,Nowata County,10322,10278,10076
+40,107,Oklahoma,Okfuskee County,12076,12081,11993
+40,109,Oklahoma,Oklahoma County,786068,790593,797434
+40,111,Oklahoma,Okmulgee County,38819,38321,38465
+40,113,Oklahoma,Osage County,47346,47121,46963
+40,115,Oklahoma,Ottawa County,31368,31319,31127
+40,117,Oklahoma,Pawnee County,16419,16356,16376
+40,119,Oklahoma,Payne County,81908,82172,81784
+40,121,Oklahoma,Pittsburg County,44154,43870,43654
+40,123,Oklahoma,Pontotoc County,38371,38272,38284
+40,125,Oklahoma,Pottawatomie County,72185,72513,72592
+40,127,Oklahoma,Pushmataha County,11118,11192,11096
+40,129,Oklahoma,Roger Mills County,3661,3646,3583
+40,131,Oklahoma,Rogers County,91435,91801,92459
+40,133,Oklahoma,Seminole County,24845,24520,24258
+40,135,Oklahoma,Sequoyah County,41742,41585,41569
+40,137,Oklahoma,Stephens County,43340,43179,43143
+40,139,Oklahoma,Texas County,20924,20491,19983
+40,141,Oklahoma,Tillman County,7399,7323,7250
+40,143,Oklahoma,Tulsa County,646437,647683,651552
+40,145,Oklahoma,Wagoner County,78984,80123,81289
+40,147,Oklahoma,Washington County,51996,51791,51527
+40,149,Oklahoma,Washita County,11055,11036,10916
+40,151,Oklahoma,Woods County,9069,8893,8793
+40,153,Oklahoma,Woodward County,20531,20312,20211
+48,001,Texas,Anderson County,58175,57974,57735
+48,003,Texas,Andrews County,17603,18011,18705
+48,005,Texas,Angelina County,87572,86810,86715
+48,007,Texas,Aransas County,25392,23446,23510
+48,009,Texas,Archer County,8783,8700,8553
+48,011,Texas,Armstrong County,1867,1879,1887
+48,013,Texas,Atascosa County,49083,50322,51153
+48,015,Texas,Austin County,29722,29965,30032
+48,017,Texas,Bailey County,7066,7015,7000
+48,019,Texas,Bandera County,22327,22792,23112
+48,021,Texas,Bastrop County,84585,86595,88723
+48,023,Texas,Baylor County,3555,3573,3509
+48,025,Texas,Bee County,32592,32467,32565
+48,027,Texas,Bell County,347377,355397,362924
+48,029,Texas,Bexar County,1956988,1981187,2003554
+48,031,Texas,Blanco County,11481,11648,11931
+48,033,Texas,Borden County,670,647,654
+48,035,Texas,Bosque County,18295,18629,18685
+48,037,Texas,Bowie County,93458,93688,93245
+48,039,Texas,Brazoria County,361853,368887,374264
+48,041,Texas,Brazos County,223917,225781,229211
+48,043,Texas,Brewster County,9325,9272,9203
+48,045,Texas,Briscoe County,1514,1512,1546
+48,047,Texas,Brooks County,7132,7099,7093
+48,049,Texas,Brown County,37815,37820,37864
+48,051,Texas,Burleson County,18053,18335,18443
+48,053,Texas,Burnet County,46600,47344,48155
+48,055,Texas,Caldwell County,42328,43161,43664
+48,057,Texas,Calhoun County,21712,21504,21290
+48,059,Texas,Callahan County,13968,13990,13943
+48,061,Texas,Cameron County,422227,422139,423163
+48,063,Texas,Camp County,12845,12983,13094
+48,065,Texas,Carson County,6005,6007,5926
+48,067,Texas,Cass County,29966,30106,30026
+48,069,Texas,Castro County,7696,7588,7530
+48,071,Texas,Chambers County,41269,42227,43837
+48,073,Texas,Cherokee County,52116,52381,52646
+48,075,Texas,Childress County,7269,7315,7306
+48,077,Texas,Clay County,10484,10448,10471
+48,079,Texas,Cochran County,2853,2831,2853
+48,081,Texas,Coke County,3285,3355,3387
+48,083,Texas,Coleman County,8399,8367,8175
+48,085,Texas,Collin County,971864,1004307,1034730
+48,087,Texas,Collingsworth County,2964,2942,2920
+48,089,Texas,Colorado County,21291,21305,21493
+48,091,Texas,Comal County,140721,148141,156209
+48,093,Texas,Comanche County,13533,13540,13635
+48,095,Texas,Concho County,2707,2683,2726
+48,097,Texas,Cooke County,39932,40504,41257
+48,099,Texas,Coryell County,74760,74741,75951
+48,101,Texas,Cottle County,1375,1382,1398
+48,103,Texas,Crane County,4685,4755,4797
+48,105,Texas,Crockett County,3535,3439,3464
+48,107,Texas,Crosby County,5849,5764,5737
+48,109,Texas,Culberson County,2230,2194,2171
+48,111,Texas,Dallam County,7272,7303,7287
+48,113,Texas,Dallas County,2620154,2629350,2635516
+48,115,Texas,Dawson County,12744,12605,12728
+48,117,Texas,Deaf Smith County,18753,18711,18546
+48,119,Texas,Delta County,5276,5332,5331
+48,121,Texas,Denton County,835364,858741,887207
+48,123,Texas,DeWitt County,20180,20106,20160
+48,125,Texas,Dickens County,2190,2218,2211
+48,127,Texas,Dimmit County,10282,10195,10124
+48,129,Texas,Donley County,3340,3315,3278
+48,131,Texas,Duval County,11270,11147,11157
+48,133,Texas,Eastland County,18294,18319,18360
+48,135,Texas,Ector County,156951,161960,166223
+48,137,Texas,Edwards County,1929,1908,1932
+48,139,Texas,Ellis County,173405,179006,184826
+48,141,Texas,El Paso County,837401,836825,839238
+48,143,Texas,Erath County,41723,42223,42698
+48,145,Texas,Falls County,17340,17231,17297
+48,147,Texas,Fannin County,34550,35185,35514
+48,149,Texas,Fayette County,25119,25278,25346
+48,151,Texas,Fisher County,3874,3821,3830
+48,153,Texas,Floyd County,5830,5783,5712
+48,155,Texas,Foard County,1202,1191,1155
+48,157,Texas,Fort Bend County,767712,788081,811688
+48,159,Texas,Franklin County,10798,10778,10725
+48,161,Texas,Freestone County,19649,19789,19717
+48,163,Texas,Frio County,19895,20211,20306
+48,165,Texas,Gaines County,20553,20820,21492
+48,167,Texas,Galveston County,334633,337858,342139
+48,169,Texas,Garza County,6490,6243,6229
+48,171,Texas,Gillespie County,26483,26702,26988
+48,173,Texas,Glasscock County,1363,1391,1409
+48,175,Texas,Goliad County,7552,7588,7658
+48,177,Texas,Gonzales County,20742,20781,20837
+48,179,Texas,Gray County,22106,22051,21886
+48,181,Texas,Grayson County,131152,133787,136212
+48,183,Texas,Gregg County,122852,123251,123945
+48,185,Texas,Grimes County,27955,28291,28880
+48,187,Texas,Guadalupe County,159639,163276,166847
+48,189,Texas,Hale County,33954,33631,33406
+48,191,Texas,Hall County,3042,3025,2964
+48,193,Texas,Hamilton County,8407,8477,8461
+48,195,Texas,Hansford County,5485,5470,5399
+48,197,Texas,Hardeman County,3959,3929,3933
+48,199,Texas,Hardin County,57117,57107,57602
+48,201,Texas,Harris County,4657972,4680045,4713325
+48,203,Texas,Harrison County,66468,66584,66553
+48,205,Texas,Hartley County,5716,5611,5576
+48,207,Texas,Haskell County,5699,5699,5658
+48,209,Texas,Hays County,214726,222706,230191
+48,211,Texas,Hemphill County,3929,3845,3819
+48,213,Texas,Henderson County,80954,82103,82737
+48,215,Texas,Hidalgo County,856249,862298,868707
+48,217,Texas,Hill County,35703,36165,36649
+48,219,Texas,Hockley County,22977,22971,23021
+48,221,Texas,Hood County,57973,60177,61643
+48,223,Texas,Hopkins County,36451,36738,37084
+48,225,Texas,Houston County,23089,23068,22968
+48,227,Texas,Howard County,35817,35925,36664
+48,229,Texas,Hudspeth County,4604,4788,4886
+48,231,Texas,Hunt County,94046,96606,98594
+48,233,Texas,Hutchinson County,21343,21119,20938
+48,235,Texas,Irion County,1512,1516,1536
+48,237,Texas,Jack County,8828,8825,8935
+48,239,Texas,Jackson County,14806,14834,14760
+48,241,Texas,Jasper County,35549,35769,35529
+48,243,Texas,Jeff Davis County,2260,2243,2274
+48,245,Texas,Jefferson County,256041,253234,251565
+48,247,Texas,Jim Hogg County,5212,5192,5200
+48,249,Texas,Jim Wells County,40920,40756,40482
+48,251,Texas,Johnson County,167012,171121,175817
+48,253,Texas,Jones County,19827,19866,20083
+48,255,Texas,Karnes County,15556,15660,15601
+48,257,Texas,Kaufman County,122628,128279,136154
+48,259,Texas,Kendall County,43969,45603,47431
+48,261,Texas,Kenedy County,427,437,404
+48,263,Texas,Kent County,759,726,762
+48,265,Texas,Kerr County,51892,52415,52600
+48,267,Texas,Kimble County,4385,4338,4337
+48,269,Texas,King County,289,276,272
+48,271,Texas,Kinney County,3711,3692,3667
+48,273,Texas,Kleberg County,30752,30722,30680
+48,275,Texas,Knox County,3674,3662,3664
+48,277,Texas,Lamar County,49568,49729,49859
+48,279,Texas,Lamb County,13165,13103,12893
+48,281,Texas,Lampasas County,20861,21134,21428
+48,283,Texas,La Salle County,7530,7493,7520
+48,285,Texas,Lavaca County,20028,20114,20154
+48,287,Texas,Lee County,17109,17097,17239
+48,289,Texas,Leon County,17235,17260,17404
+48,291,Texas,Liberty County,83597,85802,88219
+48,293,Texas,Limestone County,23391,23343,23437
+48,295,Texas,Lipscomb County,3364,3342,3233
+48,297,Texas,Live Oak County,12146,12148,12207
+48,299,Texas,Llano County,21167,21600,21795
+48,301,Texas,Loving County,133,148,169
+48,303,Texas,Lubbock County,305413,307627,310569
+48,305,Texas,Lynn County,5832,5848,5951
+48,307,Texas,McCulloch County,7941,7982,7984
+48,309,Texas,McLennan County,251631,254196,256623
+48,311,Texas,McMullen County,765,731,743
+48,313,Texas,Madison County,14251,14363,14284
+48,315,Texas,Marion County,10057,9915,9854
+48,317,Texas,Martin County,5531,5681,5771
+48,319,Texas,Mason County,4179,4259,4274
+48,321,Texas,Matagorda County,36805,36566,36643
+48,323,Texas,Maverick County,58111,58276,58722
+48,325,Texas,Medina County,50183,50862,51584
+48,327,Texas,Menard County,2110,2120,2138
+48,329,Texas,Midland County,165318,172505,176832
+48,331,Texas,Milam County,24939,25045,24823
+48,333,Texas,Mills County,4917,4883,4873
+48,335,Texas,Mitchell County,8215,8525,8545
+48,337,Texas,Montague County,19399,19584,19818
+48,339,Texas,Montgomery County,571615,589770,607391
+48,341,Texas,Moore County,21604,21083,20940
+48,343,Texas,Morris County,12375,12303,12388
+48,345,Texas,Motley County,1226,1232,1200
+48,347,Texas,Nacogdoches County,65317,65161,65204
+48,349,Texas,Navarro County,48739,49536,50113
+48,351,Texas,Newton County,13908,13751,13595
+48,353,Texas,Nolan County,14854,14799,14714
+48,355,Texas,Nueces County,361235,362026,362294
+48,357,Texas,Ochiltree County,9996,9866,9836
+48,359,Texas,Oldham County,2104,2118,2112
+48,361,Texas,Orange County,84971,83474,83396
+48,363,Texas,Palo Pinto County,28544,28874,29189
+48,365,Texas,Panola County,23211,23142,23194
+48,367,Texas,Parker County,133501,138070,142878
+48,369,Texas,Parmer County,9710,9719,9605
+48,371,Texas,Pecos County,15634,15709,15823
+48,373,Texas,Polk County,48990,49955,51353
+48,375,Texas,Potter County,120340,118711,117415
+48,377,Texas,Presidio County,7100,6856,6704
+48,379,Texas,Rains County,11730,12147,12514
+48,381,Texas,Randall County,134015,135691,137713
+48,383,Texas,Reagan County,3712,3736,3849
+48,385,Texas,Real County,3417,3477,3452
+48,387,Texas,Red River County,12164,12143,12023
+48,389,Texas,Reeves County,15166,15513,15976
+48,391,Texas,Refugio County,7180,7000,6948
+48,393,Texas,Roberts County,941,898,854
+48,395,Texas,Robertson County,17153,17219,17074
+48,397,Texas,Rockwall County,96824,100546,104915
+48,399,Texas,Runnels County,10282,10178,10264
+48,401,Texas,Rusk County,54213,54301,54406
+48,403,Texas,Sabine County,10417,10576,10542
+48,405,Texas,San Augustine County,8302,8254,8237
+48,407,Texas,San Jacinto County,28231,28717,28859
+48,409,Texas,San Patricio County,67210,66671,66730
+48,411,Texas,San Saba County,5996,6060,6055
+48,413,Texas,Schleicher County,2989,2880,2793
+48,415,Texas,Scurry County,17003,16812,16703
+48,417,Texas,Shackelford County,3289,3256,3265
+48,419,Texas,Shelby County,25225,25307,25274
+48,421,Texas,Sherman County,3046,3101,3022
+48,423,Texas,Smith County,227195,229749,232751
+48,425,Texas,Somervell County,8855,9030,9128
+48,427,Texas,Starr County,64130,64249,64633
+48,429,Texas,Stephens County,9287,9405,9366
+48,431,Texas,Sterling County,1287,1304,1291
+48,433,Texas,Stonewall County,1376,1352,1350
+48,435,Texas,Sutton County,3792,3752,3776
+48,437,Texas,Swisher County,7446,7413,7397
+48,439,Texas,Tarrant County,2056451,2081446,2102515
+48,441,Texas,Taylor County,136634,137294,138034
+48,443,Texas,Terrell County,814,810,776
+48,445,Texas,Terry County,12429,12344,12337
+48,447,Texas,Throckmorton County,1510,1504,1501
+48,449,Texas,Titus County,32619,32743,32750
+48,451,Texas,Tom Green County,117566,118014,119200
+48,453,Texas,Travis County,1227585,1246572,1273954
+48,455,Texas,Trinity County,14677,14688,14651
+48,457,Texas,Tyler County,21517,21609,21672
+48,459,Texas,Upshur County,41069,41179,41753
+48,461,Texas,Upton County,3658,3637,3657
+48,463,Texas,Uvalde County,27043,26787,26741
+48,465,Texas,Val Verde County,49028,48988,49025
+48,467,Texas,Van Zandt County,55163,55966,56590
+48,469,Texas,Victoria County,92045,91878,92084
+48,471,Texas,Walker County,72816,73136,72971
+48,473,Texas,Waller County,51717,53512,55246
+48,475,Texas,Ward County,11383,11709,11998
+48,477,Texas,Washington County,34861,35496,35882
+48,479,Texas,Webb County,273691,275120,276652
+48,481,Texas,Wharton County,41837,41499,41556
+48,483,Texas,Wheeler County,5300,5158,5056
+48,485,Texas,Wichita County,131689,131807,132230
+48,487,Texas,Wilbarger County,12683,12777,12769
+48,489,Texas,Willacy County,21508,21450,21358
+48,491,Texas,Williamson County,546251,566463,590551
+48,493,Texas,Wilson County,49211,50196,51070
+48,495,Texas,Winkler County,7605,7778,8010
+48,497,Texas,Wise County,65848,68284,69984
+48,499,Texas,Wood County,44263,45157,45539
+48,501,Texas,Yoakum County,8557,8590,8713
+48,503,Texas,Young County,17922,17986,18010
+48,505,Texas,Zapata County,14254,14149,14179
+48,507,Texas,Zavala County,11957,11969,11840

@@ -1,0 +1,11 @@
+{
+  "library": "megaparsec",
+  "metrics": {
+    "stmts": 142,
+    "sloc": 352,
+    "cog_complex": 15,
+    "cyc_complex": 93,
+    "halstead_volume": 8568.78,
+    "parse_tokens": 2427
+  }
+}

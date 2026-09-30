@@ -1,0 +1,18 @@
+{
+  "base_url": "http://127.0.0.1:8765",
+  "pages": [
+    {"route": "/updates/q1", "url": "/updates/q1"},
+    {"route": "/updates/no-title", "url": "/updates/no-title"},
+    {"route": "/updates/no-content", "url": "/updates/no-content"},
+    {"route": "/print/invoice-1042", "url": "/print/invoice-1042", "kind": "print"},
+    {"route": "/broken/timeout", "url": "/broken/timeout"},
+    {"route": "/updates/malformed", "url": "/updates/malformed"}
+  ],
+  "fields": {
+    "json_literal": "{\"keep\": \"<b>literal</b>\", \"count\": 2}",
+    "markdown_marker": "<!-- no-tags marker --> Release note **safe**",
+    "safe_html": "<p data-owner=\"portal\">Welcome <strong>team</strong></p>",
+    "unsafe_html": "<img src=\"x\" onerror=\"alert(1)\"><a href=\"javascript:evil()\" data-id=\"42\" data-extra=\"kept\">bad link</a>",
+    "script_style_html": "<p>ok</p><script>x()</script><style>.x{color:red}</style>"
+  }
+}

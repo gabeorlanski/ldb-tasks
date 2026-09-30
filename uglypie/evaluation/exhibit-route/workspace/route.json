@@ -1,0 +1,6 @@
+{
+  "start": "arrival",
+  "base_url": "https://museum.example.org/winter/",
+  "remove_classes": ["staff-only", "tracking"],
+  "route_title": "Winter Night Route"
+}

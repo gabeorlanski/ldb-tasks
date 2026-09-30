@@ -1,0 +1,11 @@
+{
+  "library": "servant",
+  "metrics": {
+    "stmts": 223,
+    "sloc": 603,
+    "cog_complex": 61,
+    "cyc_complex": 108,
+    "halstead_volume": 13837.99,
+    "parse_tokens": 3579
+  }
+}

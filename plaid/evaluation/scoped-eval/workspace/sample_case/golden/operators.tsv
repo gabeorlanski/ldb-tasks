@@ -1,0 +1,16 @@
+operator	fixity	precedence	line	col	start	end
+update	infixr	12	4	57	171	173
+update	infixr	12	4	77	191	193
+select	postfix	1	7	14	289	290
+select	postfix	1	11	14	360	361
+select	postfix	1	16	18	512	513
+or_default	postfix	1	16	27	521	523
+not	prefix	3	19	8	572	573
+impl	infixr	11	19	15	579	581
+ge	infixn	7	19	24	588	590
+select	postfix	1	20	24	617	618
+concat	infixr	4	20	30	623	625
+select	postfix	1	21	22	663	664
+mul	infixl	5	21	28	669	670
+sub	infixl	6	21	36	677	678
+add	infixl	6	21	44	685	686

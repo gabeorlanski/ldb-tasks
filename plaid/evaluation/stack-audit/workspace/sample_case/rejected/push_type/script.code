@@ -1,0 +1,7 @@
+input int ;
+store int ;
+program {
+  DROP ;
+  DROP ;
+  PUSH nat -1
+} ;

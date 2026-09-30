@@ -1,0 +1,35 @@
+; frame catalog — épreuve fixture; names match case-insensitively
+frame = header              ; the frame rule folds across three lines
+; the payload block follows the header
+        payload
+        [trailer]
+frame =/ ping-frame
+frame =/ pong-frame
+frame =/ close-frame
+
+header = tag 2*4field-sep version
+tag = %x41-5A
+version = %d49.46.48        ; the bytes "1.0"
+field-sep = ":"
+
+payload = *chunk
+chunk = 1*8data-byte
+data-byte = %b01000001 / <any raw octet> escape-marker
+escape-marker = "!"
+
+ping-frame = "PING" [payload]
+pong-frame = "PONG"
+close-frame = "CLOSE"
+
+        reason-code
+reason-code = 2%d48-57
+
+trailer = spacer checksum
+spacer = pad
+pad = *4" "
+checksum = 4Hex-Digit
+hex-digit = %x30-39 / %x41-46
+
+; nothing below is reachable from frame
+legacy-frame = "LEGACY" payload
+note = ( <descripción libre> annotation-ref )

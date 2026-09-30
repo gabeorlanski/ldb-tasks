@@ -1,0 +1,4 @@
+[
+  {"type": "buildStarted", "output": "out", "time": "2024-01-02T03:04:08Z"},
+  {"type": "buildFinished", "output": "out", "status": "success", "time": "2024-01-02T03:04:09Z"}
+]

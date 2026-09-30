@@ -1,0 +1,18 @@
+{
+  "case_id": "description_omission",
+  "registry": {
+    "platforms": {
+      "test": {
+        "style": "modern",
+        "triggers": {"_": {"schema": "test_options"}}
+      }
+    }
+  },
+  "configs": [
+    {
+      "platform": "test",
+      "option_1": "documented",
+      "description": "metadata only"
+    }
+  ]
+}

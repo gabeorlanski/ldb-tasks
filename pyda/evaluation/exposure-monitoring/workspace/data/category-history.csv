@@ -1,0 +1,4 @@
+category,effective_at,category_name,risk_weight
+residential,2023-01-01T00:00:00Z,Residential,1.0
+residential,2024-01-12T00:00:00Z,Residential 2024,2.0
+mixed,2023-01-01T00:00:00Z,Mixed,0.5

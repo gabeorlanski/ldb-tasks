@@ -1,0 +1,3 @@
+line	col	kind
+26	18	duplicate_alias
+28	32	undefined_var

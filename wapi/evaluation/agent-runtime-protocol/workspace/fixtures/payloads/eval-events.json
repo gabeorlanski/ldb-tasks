@@ -1,0 +1,4 @@
+[
+  {"type": "evaluationStarted", "attribute": "default"},
+  {"type": "evaluationFinished", "attribute": "default", "status": "success"}
+]

@@ -1,0 +1,9 @@
+file	kind	raw	normalized	line	col	start	end
+app.cfg	time	08:30:00.100	08:30:00.1	2	37	92	104
+app.cfg	time	17:00:00	17:00:00	2	59	114	122
+deploy.cfg	datetime_zone	2024-03-01T09:15:00+01:00	2024-03-01T09:15:00+01:00	2	36	69	94
+deploy.cfg	zone	-07:00	-07:00	2	70	103	109
+deploy.cfg	date	2024-02-29	2024-02-29	5	12	213	223
+deploy.cfg	time_zone	23:59:59+05:30	23:59:59+05:30	7	13	261	275
+metrics.cfg	datetime	2027-01-05T23:59:59.250	2027-01-05T23:59:59.25	9	14	319	342
+metrics.cfg	time_zone	12:00:00.000-08:00	12:00:00-08:00	10	43	386	404
